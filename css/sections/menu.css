@@ -1,0 +1,51 @@
+.menu__list ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+.menu__p{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 1em; 
+}
+.menu__h2{
+    text-align: center;
+    margin-top: 4em;
+}
+.menu__images{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4em;
+}
+.button{
+    background-color: black;
+    color: white;
+    padding:3px 3px 3px 3px;
+}
+.menu__images-tandoori{
+    text-align: center;
+    background-color: #f4f7fb;
+}
+.menu__images-kebab{
+    text-align: center;
+    background-color: #f4f7fb;
+}
+.menu__images-barbecue{
+    text-align: center;
+    background-color: #f4f7fb;
+}
+.view{
+    text-align: center;
+    margin-top: 4em;
+}
+.view button{
+    background-color: #eea539;
+    text-align: center;
+    color:white;
+    padding: 1rem 4rem;
+    border-radius:7px;
+}
+.menu__pizaa--image-3{
+    background-color: blue;
+}

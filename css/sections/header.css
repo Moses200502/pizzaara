@@ -1,3 +1,35 @@
-body{
-    background-color: blueviolet;
+
+nav{
+  background-color: aliceblue;
+  padding: 1.5em 0;
+}
+.nav__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+.nav__links ul {
+  display: flex;
+  gap: 7em;
+}
+.nav__links ul li {
+  list-style-type: none;
+}
+.nav__links ul li a {
+  text-decoration: none;
+  color:black;
+}
+.nav__links ul li:hover{
+  background-color: #eea539;
+  color:white;
+  cursor: pointer;
+  
+}
+.nav__img{
+  gap: 2em;
+  display: flex;
+}
+.nav__humberger-menu{
+  display: none;
 }
