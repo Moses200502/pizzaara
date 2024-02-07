@@ -1,0 +1,10 @@
+.footer{
+  display: flex;  
+  justify-content: space-between;
+  margin-top:10em ;
+  background-color: blueviolet;
+}
+.footer__center ul{
+    list-style-type: none;
+    
+}
