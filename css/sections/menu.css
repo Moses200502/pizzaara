@@ -58,12 +58,6 @@
     margin-top:2em;
     font-size: 2.5rem;
 }
-.menu__pizza--image-1 img{
-    background-color: black;
-    margin-top: 2.5em;
-    color:white;
-    border-radius:30px;
-}
 .content__content-image{
     display: flex;
     justify-content: space-between;
@@ -82,4 +76,14 @@
     text-align: center;
     font-size: 2.5rem;
     margin-top: 2.5em ;
+}
+.menu__image{
+    background-color: black;
+    border-radius:50px;
+    width: 100px;
+    height: 100px;
+}
+.menu__pizza--image-1{
+    display: flex;
+    text-align: center;
 }
