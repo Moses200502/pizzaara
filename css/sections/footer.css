@@ -2,9 +2,23 @@
   display: flex;  
   justify-content: space-between;
   margin-top:10em ;
-  background-color: blueviolet;
+  background-color:blue;
+  height:25em;
+}
+.white{
+  color: white;
+  margin-top:2em;
+  margin-left:7em;
 }
 .footer__center ul{
     list-style-type: none;
-    
+}
+.footer__right-image{
+  display: flex;
+  margin-top: 2em;
+  margin-left: 7em;
+}
+.footer__right-content{
+  display:flex;
+  background-color:black;
 }
