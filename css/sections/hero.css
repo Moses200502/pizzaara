@@ -15,14 +15,20 @@
     margin-top:3em;
     background-color: #f4f7fb;
 }
+/* .hero__image{
+  text-align: center;  
+} */
 .hero__content__left--images-1 img{
     background-color: #000000;
+    border-radius: 7em;
 }
 .hero__content__left--images-2 img{
     background-color: black;
+    border-radius: 7em;
 }
 .hero__content__left--images-3 img{
     background-color: black;
+    border-radius: 7em;
 
 }
 .hero__content__left--container{

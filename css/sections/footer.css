@@ -33,6 +33,7 @@
 .footer__left-image{
   display: flex;
   margin-top: 2em;
+  gap:1em;
 }
 .footer__left-content{
   display:flex;
@@ -45,7 +46,6 @@
 }
 .footer__right--input{
   display: flex;
-  border:3px solid black
 }
 .footer input{
   padding: 2rem 10rem;

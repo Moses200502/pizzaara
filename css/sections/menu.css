@@ -46,18 +46,10 @@
     color:white;
     padding: 1rem 4rem;
     border-radius:7px;
+    border: none;
+    margin-bottom: 4em;
 }
-.menu__pizza{
-    display: flex;
-    justify-content:space-around;
-}
-.menu__pizza p{
-    margin-top:2.5em;
-}
-.menu__pizza h4{
-    margin-top:2em;
-    font-size: 2.5rem;
-}
+
 .content__content-image{
     display: flex;
     justify-content: space-between;
@@ -74,16 +66,9 @@
 }
 .menu__content p{
     text-align: center;
-    font-size: 2.5rem;
-    margin-top: 2.5em ;
+    font-size: 3em;
+    margin-bottom: 2em;
 }
-.menu__image{
-    background-color: black;
-    border-radius:50px;
-    width: 100px;
-    height: 100px;
-}
-.menu__pizza--image-1{
-    display: flex;
+.menu__content-images{
     text-align: center;
 }

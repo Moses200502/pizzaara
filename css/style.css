@@ -1,7 +1,9 @@
 @import url(sections/header.css);
 @import url(sections/hero.css);
 @import url(sections/menu.css);
+@import url(sections/about.css);
 @import url(sections/footer.css);
+@import url(sections/shop.css);
 
 *{
     margin:0;
