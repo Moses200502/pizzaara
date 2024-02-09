@@ -72,3 +72,6 @@
 .menu__content-images{
     text-align: center;
 }
+.menu__icon{
+    border-radius:5%;
+}

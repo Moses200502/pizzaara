@@ -62,7 +62,7 @@
 .hero__content__left--button{
     background-color: black;
     padding:1.5em 3em;
-    border-radius: 11px;
+    border-radius:11px;
 }
 .hero__content__left--button button{
     color: white;
@@ -96,4 +96,6 @@
 
 .hero__content--right{
     width: 50%;
+    margin-left:9em;
+    margin-top: 5em;
 }

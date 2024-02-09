@@ -29,6 +29,7 @@
 }
 .footer__center ul li{
   padding:1em;
+  font-size:1.5em;
 }
 .footer__left-image{
   display: flex;
@@ -46,6 +47,7 @@
 }
 .footer__right--input{
   display: flex;
+  border:none;
 }
 .footer input{
   padding: 2rem 10rem;
